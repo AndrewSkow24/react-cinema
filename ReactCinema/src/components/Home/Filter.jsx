@@ -8,7 +8,7 @@ const Filter = () => {
   return (
     <div className="filter">
       <div id="categoryes" className="filter__categoryes anchor">
-        <div class="filter__categoryes-flex">
+        <div className="filter__categoryes-flex">
           {filterCategories.map((category, index) => (
             <div
               onClick={() => changeCurrentCategory(category)}
