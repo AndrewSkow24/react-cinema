@@ -1,0 +1,33 @@
+# Theory
+
+yarn - самый высокоскоростной инструмент создания проектов
+
+```
+npm install yarn --global
+```
+
+```
+andrejskovorodnikov@MacBook-Air-Andrej react-cinema % yarn --
+version
+1.22.22
+```
+
+```
+yarn create vite
+```
+
+запуск проект
+
+```
+yarn dev
+```
+
+Главные файлы:
+
+index.html
+main.jsx
+App.jsx
+
+React использует функциональный подход к программированию
+
+Редко кто использует классы в React, только в старых проектах
